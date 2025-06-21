@@ -1,0 +1,16 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://Crow-Country-Offline-Setup-Assistant.github.io/crow-country-offline-setup-assistant/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://Crow-Country-Offline-Setup-Assistant.github.io/crow-country-offline-setup-assistant/docs/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset> 

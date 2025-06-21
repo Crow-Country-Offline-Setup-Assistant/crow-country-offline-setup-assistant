@@ -1,0 +1,22 @@
+theme: jekyll-theme-minimal
+
+title: Crow Country - Offline Setup Assistant
+description: "Offline setup and launcher for the retro-style survival horror game Crow Country. No DRM, no login needed."
+logo: /assets/logo.png
+
+# SEO
+author: "Crow-Country-Offline-Setup-Assistant"
+keywords: "crow country offline, crow country setup assistant, retro horror launcher, survival horror pc game offline, ps1 horror indie, crow country no drm, crow country install tool, puzzle horror setup"
+social:
+  name: Crow-Country-Offline-Setup-Assistant
+  links:
+    - https://github.com/Crow-Country-Offline-Setup-Assistant
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Documentation
+    url: /docs/
+  - title: "GitHub"
+    url: "https://github.com/Crow-Country-Offline-Setup-Assistant/crow-country-offline-setup-assistant"
